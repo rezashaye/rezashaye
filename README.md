@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @rezashaye<br>✅I'm an Ex Frontend developer<br>👀 I’m interested developing Backend of the websites and Applications<br>🌱 I’m currently learning Go<br>📫 you can reach me on my Gmail : rezashaye2001@gmail.com
+👋 Hi, I’m @rezashaye<br>✅I'm an Ex Frontend developer<br>👀 I’m interested developing Backend and Frontend of the websites and Applications<br>🌱 I’m currently learning Go<br>📫 you can reach me on my Gmail : rezashaye2001@gmail.com
 
 
 # 🌐 Socials:
